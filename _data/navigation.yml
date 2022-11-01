@@ -16,8 +16,7 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url:  <a href="/assets/yueting_cv.pdf">CV</a> &nbsp/&nbsp
-    # /cv/
+    url:  /cv/
   
   - title: "Contact"
     url: /contact/
