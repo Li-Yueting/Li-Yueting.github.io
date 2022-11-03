@@ -15,8 +15,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "Pictures"
-    url:  /pictures/
+  # - title: "Pictures"
+  #   url:  /pictures/
   
   - title: "Contact"
     url: /contact/
