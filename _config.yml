@@ -16,7 +16,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Li-Yueting/Li-Yueting.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Yueting Li, Master Student of Electrical Engineering at Stanford University"
+seo_description          : "Site for Yueting Li, EECS PhD Student at UC Berkeley"
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -87,7 +87,7 @@ author:
   location         : "Stanford, CA"
   employer         : 
   googlescholar    : # "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
-  email            : "lyt1314@stanford.edu"
+  email            : "yueting_li@berkeley.edu"
   uri              : 
   bitbucket        :
   codepen          :
