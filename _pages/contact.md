@@ -4,8 +4,8 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-Contact information is below, including email and address.  This is to make it easy for people to find me.
+I've included the contact information below, including email and address.  This is to make it easy for people to find me.
 
-* E-mail: lyt1314 [at] stanford.edu
+* E-mail: yueting_li [at] berkeley.edu
 * Tel: 650-441-7953
-* Address: 330 Jane Stanford Way, Stanford, CA 94305
+* Address: Cory Hall, Berkeley, CA 94720
